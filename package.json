@@ -1,0 +1,22 @@
+{
+  "name": "aria2rc",
+  "version": "1.0.0",
+  "description": "aria2 configuration",
+  "main": ".aria2rc",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovesora/aria2rc.git"
+  },
+  "keywords": [
+    "aria2"
+  ],
+  "author": "liuxin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lovesora/aria2rc/issues"
+  },
+  "homepage": "https://github.com/lovesora/aria2rc#readme"
+}
